@@ -22,6 +22,7 @@ I have experience with Javascript, HTML5, CSS3, Sass, Webpack, Node.js, and Rest
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
 </div>
+<br/> 
 
 ### My stats: 
 
