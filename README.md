@@ -11,7 +11,7 @@ My name is Māra and I am a front end developer from Latvia focused on JavaScrip
 </div>
 <br/> 
 
-I have built apps using Javascript, React, HTML5, CSS3, Sass, Webpack, Node.js, and Rest API. I have been mostly concentrating on front end but I am currently exploring complete MERN stack as well as PHP and SQL.  
+I have built apps using Javascript, React, HTML5, CSS3, Sass, Webpack, Node.js, Rest API and MongoDB.
 
 <br/> 
 <div>
