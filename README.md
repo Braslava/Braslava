@@ -1,8 +1,6 @@
 ## 👋 Hi there, 
 
-My name is Māra and I am a front end developer from Latvia focused on JavaScript and React. I have a Master's degree in International Relations but decided to switch careers in summer 2021 and started learning web development by doing online courses, a bootcamp and my own projects. 
-
-
+My name is Māra and I am a front end (react) developer from Latvia.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/braslava/">
